@@ -1,0 +1,16 @@
+{
+	"services": [
+		{
+			"url": "https://cloud.mail.ru/api/v2/notify/applink",
+			"json": "{'phone': '+%phone%', 'api': 2, 'email': 'email','x-email': 'x-email'}"
+		},
+		{
+			"url": "https://cloud.mail.ru/api/v2/notify/applink",
+			"json": "{'phone': '+%phone%', 'api': 2, 'email': 'email','x-email': 'x-email'}"
+		},
+		{
+			"url": "https://cloud.mail.ru/api/v2/notify/applink",
+			"json": "{'phone': '+%phone%', 'api': 2, 'email': 'email','x-email': 'x-email'}"
+		}
+	]
+}
