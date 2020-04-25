@@ -1,6 +1,10 @@
 {
 	"services": [
 		{
+			"url": "https://pizzahut.ru/account/password-reset",
+			"data": "{'reset_by':'phone', 'action_id':'pass-recovery', 'phone': '%phone5%', '_token':'*'}"
+		},
+		{
 			"url": "https://cloud.mail.ru/api/v2/notify/applink",
 			"json": "{'phone': '+%phone%', 'api': 2, 'email': 'email','x-email': 'x-email'}"
 		},
